@@ -1,4 +1,4 @@
-//Programacion II: Ayudantia: Punteros
+//Punteros
 //Hecho por Kevin Dutan el 15/10/2025
 
 //librerias empleadas
